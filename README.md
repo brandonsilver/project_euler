@@ -1,4 +1,5 @@
-project-euler
+Project Euler
 =============
 
-Project Euler is a website devoted to challenging mathematical problems with the aid of computer programs. For more information, see https://projecteuler.net/about
+These are my solutions to a small subset of the Project Euler
+[problems](https://projecteuler.net/).
